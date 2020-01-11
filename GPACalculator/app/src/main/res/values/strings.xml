@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">Grade Calculator</string>
+  <string name="grade_calculator">Grade Calculator</string>
+
+  <string name="add_assignment">Add Assignment</string>
+  <string name="clear">CLEAR</string>
+  <string name="compute">COMPUTE</string>
+
+  <string name="mark">MARK</string>
+  <string name="weight">WEIGHT</string>
+  <string name="weight_in_percent">WEIGHT (%)</string>
+
+  <string name="remaining_avg_needed">(OPTIONAL) AVERAGE GRADE\nNEEDED TO END WITH</string>
+  <string name="ending_avg_given">(OPTIONAL) FINAL GRADE\nGIVEN REMAINING AVERAGE OF</string>
+  <string name="optional">OPTIONAL</string>
+
+  <string name="back">BACK</string>
+  <string name="exit">EXIT</string>
+</resources>
